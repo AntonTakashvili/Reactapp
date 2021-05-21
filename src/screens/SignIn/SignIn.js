@@ -24,7 +24,7 @@ const SignIn = () => {
 
     return (
         <div className='sign-in-container'>
-            <h3 className='sign-in-title'>\Sign in</h3>
+            <h3 className='sign-in-title'>Sign in</h3>
             {/* <form> */}
                 <div className='sign-in-input-container'>
                 <input className='sign-in-input' type='email' value='eve.holt@reqres.in'  placeholder='Email address' />

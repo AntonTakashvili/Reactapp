@@ -1,0 +1,38 @@
+.post-screen-title {
+  font-size: 1.75em;
+  font-weight: lighter;
+  text-transform: capitalize;
+  text-align: center;
+}
+.select-amount-button-log-out {
+  font-weight: lighter;
+  text-transform: capitalize;
+  text-align: right;
+  background-color: white;
+  border: 1px solid #1890ff;
+  height: 30px;
+  margin-left: 1000px;
+  border-radius: 15px;
+}
+
+.select-amount-button {
+  margin-left: 20px;
+  border: 1px solid #1890ff;
+  height: 35px;
+  background-color: white;
+  color: #1890ff;
+  border-radius: 5px;
+}
+
+.select-amount-button:hover {
+  background-color: #dcff18;
+  color: white;
+}
+
+.filter-button-cont {
+  margin-top: 10px;
+}
+
+.posts-container {
+  margin-top: 10px;
+}

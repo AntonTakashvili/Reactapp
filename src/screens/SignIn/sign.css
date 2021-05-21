@@ -22,7 +22,7 @@
 }
 
 .sign-in-button-container {
-  margin: 10px auto;
+  margin: 20px auto;
   display: flex;
   justify-content: space-around;
   width: 15%;
@@ -41,5 +41,5 @@
   border: 1px solid #1890ff;
   border-radius: 5px;
   height: 35px;
-  color: white;
+  color: red;
 }

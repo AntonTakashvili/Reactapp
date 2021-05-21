@@ -8,7 +8,7 @@ import {
 } from 'react-router-dom';
 
 import SignIn from './screens/SignIn/SignIn';
-import Posts from './screens/Posts/Post';
+import Posts from './screens/Posts/post';
 import Profile from './screens/pages/profile';
 
 function App() {
